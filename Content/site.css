@@ -1,0 +1,187 @@
+﻿body {
+    margin: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #C9CDCA;
+}
+/*HEADER*/
+.page-header {
+    background-color: #C9CDCA;
+    margin-top: 50px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#design {
+    margin: 0px;
+    font-family: 'Allura', cursive;
+    font-size: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#homepage {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 11px;
+    font-size: 70px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+/*NAV BAR*/
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+}
+#navvy {
+    margin-top: 0px;
+    margin:auto;
+}
+
+#navCont {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+#meat {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#properties {
+    text-align: right;
+    background-color: #44BEC9;
+    color: white;
+}
+
+#windows {
+    background-color: #33C48A;
+    color: white;
+}
+
+.container-fluid row{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin:inherit;
+   
+}
+
+/*GRID*/
+
+.squares {
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat; /* when we resize the image, this provents a repeating image to fill the container*/
+}
+
+.topSquares {
+    height: 400px;
+    background-size: auto 100%; /* Resizes images to the size of their container*/
+}
+
+#words1-1-1 {
+    letter-spacing: 5px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #44BEC9;
+    padding: 15px;
+    margin: 10%;
+    margin-top: 25%;
+}
+
+#words1-1-2 {
+    letter-spacing: 5px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #44BEC9;
+    padding: 15px;
+    margin: 10%;
+    margin-top: 25%;
+}
+
+#txtPosit {
+    letter-spacing: 3px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #33C48A;
+    padding: 15px;
+    margin: 5%;
+    margin-top: 25%;
+}
+/*IMAGES*/
+#pic1-1 {
+    background-image: url('../Images/tuscany-villas-sant-anna.jpg');
+    background-size: cover;
+}
+
+#pic1-2 {
+    background-image: url('../Images/Versilia.jpg');
+    background-size: cover;
+}
+
+#pic2-1 {
+    background-image: url('../Images/img-thing.jpg');
+    background-size: cover;
+}
+
+#pic2-2 {
+    background-image: url('../Images/314-348x348.jpg');
+    background-size: cover;
+}
+
+#pic2-3 {
+    background-image: url('../Images/3b-348x348.jpg');
+    background-size: cover;
+}
+
+#pic2-4 {
+    background-image: url('../Images/42-348x348.jpg');
+    background-size: cover;
+}
+
+#pic3-1 {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+    background-size: cover;
+}
+
+#pic3-2 {
+    background-image: url('../Images/img-thing.jpg');
+    background-size: cover;
+}
+
+#pic3-3 {
+    background-image: url('../Images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+    background-size: cover;
+}
+
+#pic3-4 {
+    background-image: url('../Images/img-thing.jpg');
+    background-size: cover;
+}
+
+#pic4-1 {
+    background-image: url('../Images/img-thing.jpg');
+    background-size: cover;
+}
+
+#pic4-2 {
+    background-image: url('../Images/Villa-Vanna-231-348x348.jpg');
+    background-size: cover;
+}
+
+#pic4-3 {
+    background-image: url('../Images/img-thing.jpg');
+    background-size: cover;
+}
+
+#pic4-4 {
+    background-image: url('../Images/box_partners.png');
+    background-size: cover;
+}
